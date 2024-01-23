@@ -20,7 +20,7 @@ The project uses the inquirer module to request information from the user to gen
 Clone the project and run the "npm install" command in the root directory of the "index.js" file.
 
 ## Usage
-Run the "node index.js" command and follow the prompts. The README file is generated in the "output" directory.
+Run the "node index.js" command and follow the prompts. The HTML file is generated in the "output" directory.
 
 ## License
 This project is licensed under the MIT License.
