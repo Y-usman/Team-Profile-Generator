@@ -29,7 +29,15 @@ This project is licensed under the MIT License.
 None
 
 ## Tests
-__tests__
+ PASS  __tests__/Engineer.test.js
+ PASS  __tests__/Intern.test.js
+ PASS  __tests__/Employee.test.js
+ PASS  __tests__/Manager.test.js
+
+Test Suites: 4 passed, 4 total
+Tests:       17 passed, 17 total
+Snapshots:   0 total
+Time:        0.913 s, estimated 1 s
 
 ## Questions
 If you have any questions, feel free to reach out to me :
