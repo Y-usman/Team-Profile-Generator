@@ -6,7 +6,7 @@
 The project uses the inquirer module to request information from the user to generate a team of users and then uses it to generate an HTML file displaying the team.
 
 ## Screenshots
-![SAMPLE README screenshot](/assets/generated-html.png)
+![SAMPLE Output screenshot](/assets/generated-html.png)
 
 ## Table of Contents
 - [Installation](#installation)
@@ -29,15 +29,7 @@ This project is licensed under the MIT License.
 None
 
 ## Tests
- PASS  __tests__/Engineer.test.js
- PASS  __tests__/Intern.test.js
- PASS  __tests__/Employee.test.js
- PASS  __tests__/Manager.test.js
-
-Test Suites: 4 passed, 4 total
-Tests:       17 passed, 17 total
-Snapshots:   0 total
-Time:        0.913 s, estimated 1 s
+![SAMPLE Test screenshot](/assets/test.png)
 
 ## Questions
 If you have any questions, feel free to reach out to me :
